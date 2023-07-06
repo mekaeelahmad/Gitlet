@@ -1,2 +1,2 @@
 # Gitlet
-Robust version control system akin to Git created in Java 
+Robust version control system that is a subset of Git version-control system
