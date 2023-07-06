@@ -6,3 +6,4 @@ The main functionality that Gitlet supports is:
 - Viewing the history of your backups. In Gitlet, you view this history in something called the log.
 - Maintaining related sequences of commits, called branches.
 - Merging changes made in one branch into another.
+**Actual Code in Master Branch**
